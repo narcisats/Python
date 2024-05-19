@@ -63,7 +63,7 @@ def main():
 
     duplicates = find_duplicates(root_folder)
     move_duplicates(duplicates, destination_folder)
-    print("Os arquivos duplicados foram movidos para a pasta especificada.")
+    print("Os arquivos duplicados foram movidos para a pasta especificada!")
 
 # execucao do script
 if __name__ == "__main__":
