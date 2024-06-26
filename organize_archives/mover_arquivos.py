@@ -1,11 +1,12 @@
 # Importação de bibliotecas
 import os
 import shutil
-from tqdm import tqdm
+from tqdm import tqdm # -- importacao para criar barras de progresso
+
 
 # Diretório de origem e destino
-source_dir = 'Inserir caminho da pasta aqui'
-dest_dir = 'Inserir caminho da pasta aqui'  
+source_dir = 'caminho/para/diretorio/origem.'
+dest_dir = 'caminho/para/diretorio/destino.'  
 
 # Definição das pastas e extensões
 folders = {
