@@ -1,0 +1,12 @@
+# Ambiente virtual
+.venv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Configuracoes locais do VS Code
+.vscode/
+
+# Legendas geradas ou utilizadas
+legendas/*.srt
