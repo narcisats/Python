@@ -5,8 +5,8 @@ import hashlib
 from tqdm import tqdm
 
 # Diretórios de origem e destino
-source_dir = 'D:\\Nova pasta'
-dest_dir = 'D:\\Organizado'
+source_dir = 'origem'
+dest_dir = 'destino'
 duplicate_dir = os.path.join(dest_dir, 'duplicados')  # Nova pasta para duplicados
 log_file_path = os.path.join(duplicate_dir, 'relatorio_duplicados.txt')
 
