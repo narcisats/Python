@@ -1,0 +1,17 @@
+# Ambientes virtuais Python
+.venv/
+venv/
+myenv/
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Arquivos gerados por compilação
+build/
+dist/
+*.spec
+
+# Configurações locais
+.env
+.env.*
