@@ -15,3 +15,15 @@ dist/
 # Configurações locais
 .env
 .env.*
+
+# Configuracoes locais do VS Code
+.vscode/
+*.code-workspace
+
+# Arquivos temporarios de levantamento
+bibliotecas_myenv.txt
+imports_projetos.txt
+
+# Projetos ainda nao publicados
+compare/
+experimentos/
